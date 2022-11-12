@@ -1,0 +1,12 @@
+.header a.logo{
+    /* height: 80px;
+    width: auto; */
+    padding: 0px;
+  } 
+  
+  .header a.logo img{
+    height: 70px;
+    width: auto;
+    padding: 0px;
+  
+  }
